@@ -1,8 +1,12 @@
 {
   "qsrt" : {
-    "last" : "0.1",
+    "last" : "0.2",
     "0.1" : {
         "url" : "https://drive.usercontent.google.com/u/0/uc?id=1_u5CXdYjr_TwmzwsDpAmg8jbc6_5jARr&export=download",
+        "inclusions" : {}
+    },
+    "0.2" : {
+        "url" : "https://drive.usercontent.google.com/u/0/uc?id=1_ahSx25dfwMIvQyqpuVTa25yjzbW0O-C&export=download",
         "inclusions" : {}
     }
   }
