@@ -1,6 +1,6 @@
 {
   "qsrt" : {
-    "last" : "0.3",
+    "last" : "0.4",
     "0.1" : {
         "url" : "https://drive.usercontent.google.com/u/0/uc?id=1_u5CXdYjr_TwmzwsDpAmg8jbc6_5jARr&export=download",
         "inclusions" : {}
@@ -11,6 +11,10 @@
     },
     "0.3" : {    
         "url" : "https://drive.usercontent.google.com/u/0/uc?id=1Af8esArhfaiWqv2BLbnwyUgu05JpD3sd&export=download",
+        "inclusions" : {}
+    },
+    "0.4" : {    
+        "url" : "https://drive.usercontent.google.com/u/0/uc?id=1uGWr6ux9jGUOJ8S3NDX5RCIuEh-hWKhM&export=download",
         "inclusions" : {}
     }
   }
